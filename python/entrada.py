@@ -1,0 +1,7 @@
+print("========PRACTICA=========")
+print("escribe una oracion usando al menos 3 variables con input")
+print("---------EJEMPLO-------------")
+a=input("escribe tu edad para saber si eres viejo: ")
+b=input("escribe tu nombreee pa saber si tu nombre es de antes de los 2000")
+c=input("escribe tu curso favorito por siempre y paar siempre:")
+print("Hola",b,"que bueno que tengas",a,"años y tambien me gusta",c,"por que no es malo como la miss de aritmetica xd")
