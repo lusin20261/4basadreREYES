@@ -1,0 +1,8 @@
+print("========Le damos una bienvenida a mi calculadora digital==================")
+a=input("ingresa un numero del 100 al 1000:")
+b=input("ingresa un numero del 1000 al 10000:")
+a=int(a)
+b=int(b)
+print("La multiplicacion es :",a*b) 
+print("la resta de estos 2 digitos es :",a-b)
+print("========Gracias por entra a mi calculadora digitaL===============")
